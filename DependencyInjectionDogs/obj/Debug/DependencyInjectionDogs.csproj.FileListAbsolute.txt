@@ -1,0 +1,15 @@
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\DependencyInjectionDogs.exe.config
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\obj\Debug\DependencyInjectionDogs.csprojResolveAssemblyReference.cache
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\DependencyInjectionDogs.exe
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\DependencyInjectionDogs.pdb
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\obj\Debug\DependencyInjectionDogs.exe
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\obj\Debug\DependencyInjectionDogs.pdb
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.Unity.dll
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.Unity.xml
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\proj\DependencyInjectionDogs\DependencyInjectionDogs\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
