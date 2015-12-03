@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace DependencyInjectionDogs.DogThings
 {
-    class BarkingQuiet : IBarking
+    public class BarkingQuiet : IBarking
     {
-        public void Bark()
+        public string Bark()
         {
-            Console.WriteLine("bark");
+            return "bark";
         }
     }
 }

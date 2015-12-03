@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace DependencyInjectionDogs.DogThings
 {
-    class CantGivePaw : IPawGiving
+    public class CantGivePaw : IPawGiving
     {
-        public void GivePaw()
+        public string GivePaw()
         {
-            Console.WriteLine("*Can't give paw*");
+            return "*Can't give paw*";
         }
     }
 }

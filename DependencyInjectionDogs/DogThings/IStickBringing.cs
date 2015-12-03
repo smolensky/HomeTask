@@ -8,6 +8,6 @@ namespace DependencyInjectionDogs.DogThings
 {
     public interface IStickBringing
     {
-        void BringStick();
+        string BringStick();
     }
 }

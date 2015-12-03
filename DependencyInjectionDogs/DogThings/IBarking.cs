@@ -8,6 +8,6 @@ namespace DependencyInjectionDogs.DogThings
 {
     public interface IBarking
     {
-        void Bark();
+        string Bark();
     }
 }

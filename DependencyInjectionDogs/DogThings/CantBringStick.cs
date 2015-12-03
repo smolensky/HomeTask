@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace DependencyInjectionDogs.DogThings
 {
-    class CantBringStick : IStickBringing
+    public class CantBringStick : IStickBringing
     {
-        public void BringStick()
+        public string BringStick()
         {
-            Console.WriteLine("*Can't bring stick*");
+            return "*Can't bring stick*";
         }
     }
 }

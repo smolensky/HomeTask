@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionDogs", "DependencyInjectionDogs\DependencyInjectionDogs.csproj", "{901FB1C7-F9D9-488F-A497-D91D637A740D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{AFBEBA59-9053-4585-9201-71FA26718C5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{901FB1C7-F9D9-488F-A497-D91D637A740D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{901FB1C7-F9D9-488F-A497-D91D637A740D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{901FB1C7-F9D9-488F-A497-D91D637A740D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBEBA59-9053-4585-9201-71FA26718C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBEBA59-9053-4585-9201-71FA26718C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBEBA59-9053-4585-9201-71FA26718C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBEBA59-9053-4585-9201-71FA26718C5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
